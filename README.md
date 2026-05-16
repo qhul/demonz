@@ -12,5 +12,5 @@ demonz is a http requests tool for pinging sites to see if there online
 
  cd demonz
  
- python3 demonz.py
+ python3 main.py
  ```
