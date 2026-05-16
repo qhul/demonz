@@ -9,6 +9,8 @@ demonz is a http requests tool for pinging sites to see if there online
  git clone https://github.com/qhul/demonz
 
  cd demonz
+
+ cd demonz
  
  python3 demonz.py
  ```
