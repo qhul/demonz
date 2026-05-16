@@ -6,7 +6,8 @@ demonz is a http requests tool for pinging sites to see if there online
  how to use
  ```
  git clone https://github.com/qhul/demonz
-```
- ```cd demonz```
+
+ cd demonz
  
- ```python demonz.py```
+ python demonz.py
+ ```
