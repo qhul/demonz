@@ -26,7 +26,7 @@ def main():
         response = requests.get(url=target)
 
         if response.status_code == 200:
-            print(f"{Fore.BLUE}Requests Sent.")
+            print(f"{Fore.BLUE}Requests Sent. ms{f:.2}")
 
         elif response.status_code == 404 or 429:
             print("Requests Failed")
