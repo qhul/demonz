@@ -10,6 +10,8 @@ demonz is a http requests tool for pinging sites to see if there online
  ```
  git clone https://github.com/qhul/demonz
 
+ pip install requirements.txt
+
  cd demonz
 
  # *both files are called demonz make sure to cd in demonz 2 times
