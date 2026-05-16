@@ -11,7 +11,7 @@ demonz is a http requests tool for pinging sites to see if there online
  git clone https://github.com/qhul/demonz
 
 
- pip install requirements.txt
+ pip install requirements.txt -r
 
 
  cd demonz
