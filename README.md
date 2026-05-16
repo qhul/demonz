@@ -1,6 +1,7 @@
 # demonz
 demonz is a http requests tool for pinging sites to see if there online
-<img width="509" height="184" alt="demonz" src="https://github.com/user-attachments/assets/3611e1e7-1018-4a76-95f3-61b6bcd0f1f3" />
+
+<img width="590" height="190" alt="demon " src="https://github.com/user-attachments/assets/5f174b1b-5e87-4b01-87c6-fcf1e7102192" />
 
 
  how to use
