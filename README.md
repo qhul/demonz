@@ -1,5 +1,6 @@
 # demonz
 demonz is A basic HTTP status checker that repeatedly sends requests to a URL and prints the response code and latency
+
 <img width="559" height="184" alt="qhul" src="https://github.com/user-attachments/assets/2dc8a005-5766-42c7-afdb-107c9af9583d" />
 
 
